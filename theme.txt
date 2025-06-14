@@ -20,7 +20,7 @@ terminal-border: "0"
     item_font = "Retro Gaming Regular 22"  # Changed to match title style
     item_color = "#eb4444"        # Same red as titles
     selected_item_color = "#ffffff" # White for selection highlight
-    
+
     icon_height = 30
     icon_width = 30
     item_icon_space = 4
@@ -36,7 +36,7 @@ terminal-border: "0"
     top = 50%
     align = "center"
     id = "__timeout__"
-    text = "Booting in %d seconds..."  # Uppercase to match style
+    text = "I have %d mental illnesses"  # Uppercase to match style
     color = "#eb4444"                 # Same red
     font = "Retro Gaming Regular 22"           # Same font
 }

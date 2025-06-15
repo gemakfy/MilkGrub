@@ -4,9 +4,10 @@
 
 ### 🛠️ Installation
 
-```
+```bash
 git clone https://github.com/gemakfy/MilkGrub
 sudo ./MilkGrub/install.sh
 ```
 
-[Code reference](https://github.com/uiriansan/LainGrubTheme)
+## O!
+Code reference: https://github.com/uiriansan/LainGrubTheme

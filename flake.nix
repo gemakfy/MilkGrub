@@ -44,14 +44,14 @@
             };
           };
 
-          config = mkIf cfg.enable (mkMerge [{
+          config = mkIf cfg.enable {
             environment.systemPackages = [ milk-grub-theme ];
 
             boot.loader.grub = {
               theme = "${milk-grub-theme}";
               splashImage = "${milk-grub-theme}/background.jpg";
             };
-          }]);
+          };
         };
     };
 }
